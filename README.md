@@ -38,4 +38,4 @@
 ## 参考
 
 ## License
-[GPL](https://github.com/Bil369/YiQi-ZombieCompanyClassifier/blob/master/LICENSE) &copy; [Bil369](https://github.com/Bil369)
+[GPL](https://github.com/tony-coder/2020-FC-Unsupervised-Classification-System-for-FintechEnterprises/blob/master/LICENSE) &copy; [Bil369](https://github.com/tony-coder)

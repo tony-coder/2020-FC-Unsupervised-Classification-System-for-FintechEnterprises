@@ -38,4 +38,4 @@
 ## 参考
 
 ## License
-[GPL](https://github.com/tony-coder/2020-FC-Unsupervised-Classification-System-for-FintechEnterprises/blob/master/LICENSE) &copy; [Bil369](https://github.com/tony-coder)
+[GPL](https://github.com/tony-coder/2020-FC-Unsupervised-Classification-System-for-FintechEnterprises/blob/master/LICENSE) &copy; [tony-coder](https://github.com/tony-coder)

@@ -16,7 +16,7 @@
   "dependencies": {
     "animate.css": "^3.7.0",
     "array-includes": "^3.0.3",
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "babel-runtime": "^6.26.0",
     "countup.js": "^1.9.3",
     "define-properties": "^1.1.3",
